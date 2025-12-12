@@ -1,5 +1,45 @@
-# Vue 3 + Vite
+_From the product series "Magicodelogy"_
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Clairvoyance MTrack (Frontend)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+> **Note:** This project is **archived**. It is the frontend component of the **first product I ever built at Viettel**. It serves as a demonstration dashboard for MTrack devices.
+
+## 📖 About
+**Clairvoyance MTrack** is a simplified asset tracking platform designed for MTrack devices running on **NB-IoT** technology. 
+
+This repository contains the **Frontend** dashboard, which allows users to:
+* View the location and status of tracking devices.
+* Visualize telemetry data sent from the hardware.
+* Interact with the backend API.
+
+## 🛠️ Tech Stack
+* **Framework:** Vue 3
+* **Build Tool:** Vite
+* **Language:** JavaScript
+
+## 🚀 Setup & Installation
+
+### 1. Install Dependencies
+```bash
+npm install
+````
+
+### 2\. Run Development Server
+
+```bash
+npm run dev
+```
+
+### 3\. Build for Production
+
+```bash
+npm run build
+```
+
+## 🔗 Related Repositories
+
+  * **Backend:** [clairvoyance-mtrack-be](https://github.com/mahou-anisphia/clairvoyance-mtrack-be)
+
+## 📄 License
+
+This project is open for educational and archival purposes.
